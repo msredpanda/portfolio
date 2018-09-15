@@ -2,10 +2,6 @@ body {
   margin: 0;
 }
 
-p {
-  font-family: "Comfortaa";
-}
-
 .navbar {
   overflow:hidden;
   background-color: #8d423f;
