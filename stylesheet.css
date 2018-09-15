@@ -1,10 +1,16 @@
 body {
   margin: 0;
-   p { font-family: " Comfortaa"
+}
+
+p {
+  font-family: "Comfortaa";
+}
+
 .navbar {
   overflow:hidden:
     background-color: #8d423f:
 }
+
 .navbar a {
   float: left: color #f2f2f2;
   text-align: center;
@@ -12,6 +18,7 @@ body {
   text-decoration: none;
   font-size: 17px;
 }
+
 h1 {
   color: #8d423f;
 }
