@@ -14,11 +14,11 @@ body {
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
-  font-family: cursive;
+  font-family: "cursive";
 }
 
 h1 {
   color: #8d423f;
   border-bottom: 5px solid #8d423f;
-  font family; " Fredericka the Great";
+  font family; "system-ui";
 }
