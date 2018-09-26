@@ -1,3 +1,22 @@
+body {
+  margin: 0;
+}
+
+.navbar {
+  overflow:hidden;
+  background-color: #8d423f;
+}
+
+.navbar a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  font-family: "cursive";
+}
+
 h1 {
   color: #8d423f;
   border-bottom: 5px solid #8d423f;
