@@ -2,12 +2,12 @@ body {
   margin: 0;
 }
 
-.navbar2 {
+.navbar {
   overflow:hidden;
   background-color: #8d423f;
 }
 
-.navbar2 a {
+.navbar a {
   float: left;
   color: #f2f2f2;
   text-align: center;
