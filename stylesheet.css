@@ -18,9 +18,10 @@ body {
 }
 
 h1 {
-  color: #8d423f;
+  color: #f2f2f2;
   border-bottom: 5px solid #8d423f;
-  font family; "system-ui";
+  font family: "system-ui";
+  background color: #8d423f
 }
 
 .column {
