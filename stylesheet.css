@@ -27,11 +27,6 @@ body {
     color: #ed9b9b;
 }
 
-.main {
-    margin-left: 160px; /* Same as the width of the sidebar */
-    padding: 0px 10px;
-}
-
 h1 {
   color: #8d423f;
   border-bottom: 5px solid #8d423f;
