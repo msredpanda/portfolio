@@ -1,5 +1,6 @@
 body {
   margin: 0;
+  background-image: url ("https://github.com/msredpanda/portfolio/blob/gh-pages/red-swirls-png-8.png?raw=true");
 }
 
 .navbar {
@@ -20,5 +21,9 @@ body {
 h1 {
   color: #8d423f;
   border-bottom: 5px solid #8d423f;
-  font family; "system-ui";
+  font family: "system-ui";
+}
+
+h3 {
+  color: #ff443d;
 }
