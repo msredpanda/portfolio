@@ -30,11 +30,12 @@ body {
 h1 {
   color: #8d423f;
   border-bottom: 5px solid #8d423f;
-  font family: "system-ui";
+  font family: "Verdana";
 }
 
 h3 {
   color: #ff443d;
+  font family: "Trebuchet MS";
 }
 
 .column {
@@ -45,7 +46,7 @@ h3 {
 }
  .Red Panda Pics {
   position: relative; 
-  max-width: 500px; 
+  max-width: 800px; 
   margin: 0 auto; 
 }
 .Red Panda Pics .content {
@@ -53,7 +54,7 @@ h3 {
   bottom: 0; 
   background: rgb(0, 0, 0); 
   background: rgba(0, 0, 0, 0.5); 
-  color: #f2f2f2; 
+  color: #f1f1f1; 
   width: 100%; 
   padding: 20px; 
 }
