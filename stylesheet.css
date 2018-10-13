@@ -4,14 +4,14 @@ body {
 }
 
 .sidenav {
-    height: 100%; 
-    width: 160px;
+    height: 100%;
+    width: 160px; 
     position: fixed; 
     z-index: 1; 
-    top: 0;
+    top: 0; 
     left: 0;
-    background-color: #8d423f;
-    overflow-x: hidden; 
+    background-color: #8d423f; 
+    overflow-x: hidden;
     padding-top: 20px;
 }
 
@@ -19,19 +19,14 @@ body {
     padding: 6px 8px 6px 16px;
     text-decoration: none;
     font-size: 25px;
-    color: #818181;
+    color: #f2f2f2;
     display: block;
 }
 
-
 .sidenav a:hover {
-    color: #bd6b6b;
+    color: #ed9b9b;
 }
 
-.body {
-    margin-left: 160px; 
-    padding: 0px 10px;
-}
 
 h1 {
   color: #8d423f;
