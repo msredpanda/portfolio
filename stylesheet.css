@@ -3,41 +3,34 @@ body {
   padding: 0px 10px;
 }
 
-#mySidenav a{
-   position: absolute; 
-    left: -80px; 
-    transition: 0.3s; 
-    padding: 15px; 
-    width: 100px; 
-    text-decoration: none; 
-    font-size: 20px; 
-    color: white; 
-    border-radius: 0 5px 5px 0; 
-}
-
-#mySidenav a:hover {
-    color: #ed9b9b;
+.sidenav {
+    height: 100%; 
+    width: 160px;
+    position: fixed; 
+    z-index: 1; 
+    top: 0;
     left: 0;
+    background-color: #8d423f;
+    overflow-x: hidden; 
+    padding-top: 20px;
 }
 
-#home {
-    top: 20px;
-    background-color: #823d3a;
+.sidenav a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #818181;
+    display: block;
 }
 
-#Red Pandas {
-    top: 80px;
-    background-color: #783836;
+
+.sidenav a:hover {
+    color: #bd6b6b;
 }
 
-#naomi {
-    top: 140px;
-    background-color: #6d3331;
-}
-
-#lattecatgirl {
-    top: 200px;
-    background-color: #582928;
+.head {
+    margin-left: 160px; 
+    padding: 0px 10px;
 }
 
 h1 {
