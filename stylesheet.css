@@ -1,17 +1,8 @@
 body {
   margin-left: 160;
-  margin: 0;
-  padding: 1.5em;
-  border: 24px #854947 groove;
   font-family; Verdana, Geneva, sans-serif;
-  scrollbar-face-color: #8d423f;
-  scrollbar-shadow-color: #bb6a68;
-  scrollbar-highlight-color: #bb6a68;
-  scrollbar-3dlight-color: #8d423f;
-  scrollbar-darkshadow-color: #bb6a68;
-  scrollbar-track-color: #bb6a68;
-  scrollbar-arrow-color: #701c1a;
 }
+
 
 .sidenav {
     height: 100%;
