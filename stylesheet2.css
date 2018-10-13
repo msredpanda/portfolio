@@ -30,12 +30,12 @@ body {
 }
 
 .sidenav a:hover {
-    color: #9b4646;
+    color: #bc5f5c;
 }
 h1 {
   color: #8d423f;
   border-bottom: 5px solid #8d423f;
-  font family: "system-ui";
+  font family: Jazz LET, fantasy;
 }
 
 h3 {
