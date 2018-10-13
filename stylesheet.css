@@ -48,6 +48,7 @@ h3 {
   position: relative; 
   max-width: 800px; 
   margin: 0 auto; 
+  positions: center;
 }
 .Red Panda Pics .content {
   position: absolute; 
