@@ -1,6 +1,7 @@
 body {
-  margin-left: 160px;
-  padding: 0px 10px;
+  margin: 0;
+  padding: 1.5em;
+  border: 24px #854947 groove;
   font-family; Verdana, Geneva, sans-serif;
   scroll-face-color: #8d423f;
   scrollbar-shadow-color: #bb6a68;
@@ -54,7 +55,7 @@ h3 {
   height: 500px;
 }
   p {
-    text-indent: 2.5em;
+    text-indent: 1.5em;
     margin: 0 0 0.5em 0;
     padding: 0;
 }
