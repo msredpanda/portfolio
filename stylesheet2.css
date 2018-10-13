@@ -1,6 +1,6 @@
 body {
-  margin: 0;
-  background-image: url ("https://github.com/msredpanda/portfolio/blob/gh-pages/red-swirls-png-8.png?raw=true");
+  margin-left: 160px;
+  padding: 0px 10px;
 }
 
 .sidenav {
@@ -18,16 +18,15 @@ body {
 .sidenav a {
     padding: 6px 8px 6px 16px;
     text-decoration: none;
-    font-size: 25px;
+    font-size: 20px;
     font-family: Verdana, Geneva, sans-serif;
-    color: #fff;
+    color: #f2f2f2;
     display: block;
 }
 
 .sidenav a:hover {
-    color: #ed9b9b;
+    color: #9b4646;
 }
-
 h1 {
   color: #8d423f;
   border-bottom: 5px solid #8d423f;
