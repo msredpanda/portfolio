@@ -3,6 +3,16 @@ body {
   padding: 0px 10px;
 }
 
+body,html {
+  scroll-face-color: #8d423f;
+  scrollbar-shadow-color: #bb6a68;
+  scrollbar-highlight-color: #bb6a68;
+  scrollbar-3dlight-color: #8d423f;
+  scrollbar-darkshadow-color: #bb6a68;
+  scrollbar-track-color: #bb6a68;
+  scrollbar-arrow-color: #701c1a;
+}
+
 .sidenav {
     height: 100%;
     width: 160px; 
