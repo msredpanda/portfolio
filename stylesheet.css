@@ -1,9 +1,7 @@
 body {
   margin-left: 160px;
   padding: 0px 10px;
-}
-
-body,html {
+  font-family; Verdana, Geneva, sans-serif;
   scroll-face-color: #8d423f;
   scrollbar-shadow-color: #bb6a68;
   scrollbar-highlight-color: #bb6a68;
@@ -55,6 +53,12 @@ h3 {
   padding: 10px;
   height: 500px;
 }
+  p {
+    text-indent: 2.5em;
+    margin: 0 0 0.5em 0;
+    padding: 0;
+}
+
  .Red Panda Pics {
   position: relative; 
   max-width: 800px; 
