@@ -3,7 +3,7 @@ body {
   padding: 1.5em;
   border: 24px #854947 groove;
   font-family; Verdana, Geneva, sans-serif;
-  scroll-face-color: #8d423f;
+  scrollbar-face-color: #8d423f;
   scrollbar-shadow-color: #bb6a68;
   scrollbar-highlight-color: #bb6a68;
   scrollbar-3dlight-color: #8d423f;
