@@ -29,10 +29,8 @@ body {
 }
 
 h1 {
-  color: #a52a2a;
-  border-style: bottom;
-  border-width: 
-  font family: jazz let, fantasy;
+  color: #8d423f;
+  border-bottom: 5px solid #8d423f;
   text-shadow: 2px 2px 5px #ff6347;
 }
 
