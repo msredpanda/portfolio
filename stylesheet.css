@@ -30,6 +30,8 @@ body {
 
 h1 {
   color: #a52a2a;
+  border-style: bottom;
+  border-width: 
   font family: jazz let, fantasy;
   text-shadow: 2px 2px 5px #ff6347;
 }
