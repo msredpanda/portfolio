@@ -59,6 +59,11 @@ h3 {
   font family: verdana, geneva, sans-serif;
 }
 
+p {
+  color: #456e5f;
+  font family: arial, helvetica, sans-serif;
+}
+
 .column {
   width: 100%;
   float: left;
